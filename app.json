@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "khisty_enkrip_dekrip",
+    "slug": "khisty_enkrip_dekrip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.khistynh.khisty_enkrip_dekrip"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
